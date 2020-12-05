@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/raju5889.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/raju5889.github.io/static/js/main.66d0cad9.chunk.js",
+    "main.js.map": "/raju5889.github.io/static/js/main.66d0cad9.chunk.js.map",
+    "runtime-main.js": "/raju5889.github.io/static/js/runtime-main.abff1adc.js",
+    "runtime-main.js.map": "/raju5889.github.io/static/js/runtime-main.abff1adc.js.map",
+    "static/js/2.f3bbfb33.chunk.js": "/raju5889.github.io/static/js/2.f3bbfb33.chunk.js",
+    "static/js/2.f3bbfb33.chunk.js.map": "/raju5889.github.io/static/js/2.f3bbfb33.chunk.js.map",
+    "static/js/3.a8977750.chunk.js": "/raju5889.github.io/static/js/3.a8977750.chunk.js",
+    "static/js/3.a8977750.chunk.js.map": "/raju5889.github.io/static/js/3.a8977750.chunk.js.map",
+    "index.html": "/raju5889.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/raju5889.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f3bbfb33.chunk.js.LICENSE.txt": "/raju5889.github.io/static/js/2.f3bbfb33.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/raju5889.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abff1adc.js",
+    "static/js/2.f3bbfb33.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.66d0cad9.chunk.js"
+  ]
+}
