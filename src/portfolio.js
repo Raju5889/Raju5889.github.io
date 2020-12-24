@@ -18,13 +18,13 @@ const greeting = {
 // Your Social Media Link
 
 const socialMediaLinks = {
-  github: "https://github.com/Thyagarajupasta",
-  linkedin: "https://www.linkedin.com/in/Thyagarajupasta/",
-  gmail: "Thyagarajupasta70@gmail.com",
-  gitlab: "https://gitlab.com/Thyagarajupasta",
-  facebook: "https://www.facebook.com/Thyagaraju.pasta7",
-  medium: "https://medium.com/@Thyagarajupasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/Thyagaraju-pasta",
+  github: "https://github.com/raju5889",
+  linkedin: "https://www.linkedin.com/in/Thyagaraju/",
+  gmail: "thyagaraju.ptr@gmail.com",
+  gitlab: "https://gitlab.com/Raju5889",
+  facebook: "https://www.facebook.com/",
+  medium: "https://medium.com/@thyagarajupathur",
+  stackoverflow: "https://stackoverflow.com/users/10190764/thyagaraju",
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -191,7 +191,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "Thyagarajupasta", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "raju5889", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 
@@ -288,8 +288,7 @@ const blogSection = {
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?",
     },
     {
-      url:
-        "https://medium.com/@Thyagarajupasta/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.",
@@ -323,7 +322,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Thyagaraju-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo",
+    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo",
   ],
 };
 
@@ -331,8 +330,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "Thyagarajupasta70@gmail.com",
+  number: "+91-8197696486",
+  email_address: "thyagaraju.ptr@gmail.com",
 };
 
 //Twitter Section
